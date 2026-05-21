@@ -37,7 +37,9 @@ A console-based simulator designed to process multi-stage beverage customization
 
 ​### 6. 🛣️ Project 2: Toll Plaza Management System
 ​A straight-to-the-point console application built to calculate toll taxes based on clean conditional logic.
+
 ​✨ Highlights
+
 ​Vehicle Classification: Uses if-else structure to identify vehicle types (Car, Truck, Bike) and apply correct rates.
 ​Direct Calculations: Processes toll fees instantly without any complex loops.
 ​Pure Conditional Flow: Demonstrates solid command over basic branching and input handling in C++.
