@@ -35,14 +35,14 @@ An analytical price processing application tailored to optimize system revenue t
 A console-based simulator designed to process multi-stage beverage customization routines.
 * Effectively maps selections between Tea and Coffee, evaluates specialized variants based on user inputs, and computes precise, real-time preparation countdown metrics.
 
-​### 6. 🛣️ Project 2: Toll Plaza Management System
-​A straight-to-the-point console application built to calculate toll taxes based on clean conditional logic.
+​### 6. ​🛣️  Eco-Toll Tax Calculator
+​A smart console application designed to calculate route-based toll fees and environmental taxes using strict if-else logic.
 
 ​✨ Highlights
 
-​Vehicle Classification: Uses if-else structure to identify vehicle types (Car, Truck, Bike) and apply correct rates.
-​Direct Calculations: Processes toll fees instantly without any complex loops.
-​Pure Conditional Flow: Demonstrates solid command over basic branching and input handling in C++.
+​Route Verification: Filters pricing pipelines based on whether the vehicle is on a National or State Highway.
+​Dynamic Eco-Tax: Nested if-else blocks that analyze the vehicle's weight and mileage to compute a custom environmental tax.
+​Pure Logical Pipeline: Zero loops, zero switch-cases—just clean, cascading conditional structures to evaluate complex tax brackets instantly.
 
 ### 7. 🌐 Cyber Heist - A Story-Based Short RPG Game Engine
 
