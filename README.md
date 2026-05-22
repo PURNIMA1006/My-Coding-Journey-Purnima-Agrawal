@@ -35,9 +35,44 @@ An analytical price processing application tailored to optimize system revenue t
 A console-based simulator designed to process multi-stage beverage customization routines.
 * Effectively maps selections between Tea and Coffee, evaluates specialized variants based on user inputs, and computes precise, real-time preparation countdown metrics.
 
+​### 6. ​🛣️  Eco-Toll Tax Calculator
+​A smart console application designed to calculate route-based toll fees and environmental taxes using strict if-else logic.
+
+​✨ Highlights
+
+​Route Verification: Filters pricing pipelines based on whether the vehicle is on a National or State Highway.
+​Dynamic Eco-Tax: Nested if-else blocks that analyze the vehicle's weight and mileage to compute a custom environmental tax.
+​Pure Logical Pipeline: Zero loops, zero switch-cases—just clean, cascading conditional structures to evaluate complex tax brackets instantly.
+
+### 7. 🌐 Cyber Heist - A Story-Based Short RPG Game Engine
+
+A lightweight, high-performance terminal-based mini-RPG game engine built completely from scratch in **C++**. Designed to showcase clean architecture, optimized structural control flow, and strict state management.
+
+## 🚀 Key Highlights & Architecture
+
+### 🛡️ Dynamic Character System
+Handles unique operative classes with specific statistical attributes and progression mechanics:
+* **Code-Breaker:** Specialized in decryption and bypassing terminal firewall layers.
+* **Ghost-Walker:** High stealth capabilities for undetected system infiltration.
+* **Cyber-Knight:** Heavy-duty brute-force specialist for bypassing aggressive security countermeasures.
+
+### 🎛️ Intrusion Logic Pipelines
+* Features multi-layered security levels using advanced, highly optimized **nested if-else architectures**.
+* Simulates real-time hacking decision-making trees that adapt based on character choices and stats.
+
+### 🧠 Advanced State Management
+* Implements strict process control flow and error buffering via clean conditional termination (`return 0`).
+* Zero manual memory leaks, ensuring lightweight execution that matches C++'s hardware-level speed capabilities.
+
+## 🛠️ Tech Stack & Concepts Used
+* **Language:** C++ (Standard ISO C++)
+* **Paradigm:** Procedural & Structural Logic Programming
+* **Interface:** CLI (Command Line Interface / Terminal-based)
+* **Core Concepts:** Multi-layered conditional execution, robust state routing, deterministic memory stack management.
+
 ---
 
 ## 📈 Quality Assurance & Optimization
 - **Active Debugging:** Codes are continuously reviewed and refactored (e.g., `updated_fintech_credit_calculator.cpp`, `updatedsmart_routing.cpp`) to optimize computational complexity and maintain clean naming structures.
 - **Data Integrity:** Strict reliance on input validation structures to eliminate buffer issues and negative runtime errors.
--
+
