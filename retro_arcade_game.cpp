@@ -62,7 +62,7 @@ int main(){
     char option2;
     cin>>option2;
 
-    if(option2 = 'B'){
+    if(option2 == 'B'){
 
         
         cout<<"tokens gained"<<endl;
