@@ -37,9 +37,14 @@ int main(){
             float division;
              cout<<"enter the numbers"<<endl;
              cin>>a>>b;
-             division = a/b;
+            if( b = 0){
+                cout<<"please enter valid input"<<endl;
+                return 0;
+            }
+            else{ division = a/b;
              cout<<division<<endl;
              return 0;
+                }
         }else if(choice == "multipication"){
 
             float a;
