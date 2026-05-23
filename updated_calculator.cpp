@@ -44,7 +44,7 @@ int main(){
             else{ division = a/b;
              cout<<division<<endl;
              return 0;
-                }
+           }
         }else if(choice == "multipication"){
 
             float a;
