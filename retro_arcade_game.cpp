@@ -7,7 +7,7 @@ int main(){
 
     cout<<"====================== \n====================== \nWELCOME TO RETRO ARCADE \n====================== \n======================"<<endl;
     cout<<"assigend tokens ⏺️ = 16"<<endl;
-    int tokens = 15;
+    int tokens = 16;
 
     cout<<"Game include 4 questions"<<endl;
     cout<<"every wrong answer will deduct 4 tokens"<<endl;
@@ -62,7 +62,7 @@ int main(){
     char option2;
     cin>>option2;
 
-    if(option2 = 'B'){
+    if(option2 == 'B'){
 
         
         cout<<"tokens gained"<<endl;
