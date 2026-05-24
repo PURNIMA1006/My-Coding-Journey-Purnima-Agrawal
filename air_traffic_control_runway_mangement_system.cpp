@@ -37,7 +37,7 @@ int main(){
 
         }else if(fuel_left < 40){
 
-            cout<<"land imediately!!"<<endl;
+            cout<<"land Immediately!!"<<endl;
 
            }else if(fuel_left >= 40 && fuel_left < 80){
 
