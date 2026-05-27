@@ -23,9 +23,15 @@ int main(){
 
         cout<<"Owner  name - Z \nfloor = G \nhouse number = 3 \nfull address = Z 3G \nunique code"<<address_list[2]<<endl;
         return 0;
+        
     }else if(choice == 3){
 
         cout<<"Owner  name - H \nfloor = G \nhouse number = 4 \nfull address = H 4G \nunique code"<<address_list[3]<<endl;
         return 0;
-    }
+        
+    }else{
+        
+        cout<<"invalid input"<<endl;
+        
+   }
 }
