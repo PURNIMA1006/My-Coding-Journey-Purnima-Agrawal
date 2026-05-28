@@ -76,3 +76,16 @@ Handles unique operative classes with specific statistical attributes and progre
 - **Active Debugging:** Codes are continuously reviewed and refactored (e.g., `updated_fintech_credit_calculator.cpp`, `updatedsmart_routing.cpp`) to optimize computational complexity and maintain clean naming structures.
 - **Data Integrity:** Strict reliance on input validation structures to eliminate buffer issues and negative runtime errors.
 
+- ## 📊 Data Structures Roadmap & Array Integration (In Progress)
+Currently stepping into linear data structures to upgrade the existing procedural engines.
+
+### 🎒 Core Array Concepts Learned:
+- **Fixed Memory Allocation:** Understanding contiguous memory blocks in C++.
+- **Index-Based Access:** $O(1)$ time complexity for direct element retrieval.
+- **Bound Checking:** Preventing segmentation faults and buffer overflows.
+
+### 🔄 Planned System Upgrades:
+- [ ] **Fintech Engine v2:** Implement `std::array<int, 100>` to batch-process CIBIL scores and filter high-risk profiles in a single execution pass.
+- [ ] **Cyber Heist RPG:** Store operative inventory items and security firewall layers inside a structural array for sequential decryption loops.
+
+
