@@ -6,6 +6,23 @@ Welcome! This repository serves as a centralized vault for my daily coding progr
 
 ## 🛠️ Key Technical Projects & Feature Suite
 
+<!-- GSSoC 2026 Achievement Badge -->
+<p align="center">
+  <img src="https://shields.io" alt="GSSoC 2026">
+  <img src="https://shields.io" alt="Open Source Track">
+</p>
+
+---
+
+## 🚀 GSSoC 2026 Journey
+Proud to announce that out of **35,000+ applicants**, this repository and my core logic skills have successfully made it into **GirlScript Summer of Code (GSSoC) 2026** under the **Open Source Track**! 🌟
+
+- **Role:** Contributor / Mentee
+- **Timeline:** 15 May to 14 August 2026
+- **Objective:** Actively contributing to real-world open-source projects, optimizing C++ structures, and collaborating with global developers.
+
+---
+
 ### 1. 💳 Fintech Credit & Eligibility System
 A modular banking engine built to compute credit eligibility, manage risk thresholds, and dynamically allocate user perks.
 * **Smart Risk Management:** Automatically slashes the overall credit limit by **20%** if the user has an active, outstanding loan profile.
