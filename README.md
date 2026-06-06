@@ -4,13 +4,19 @@ Welcome! This repository serves as a centralized vault for my daily coding progr
 
 ---
 # 🚀 GSSoC 2026 Journey
-**Selected Contributor out of 35,000+ applicants!** 🌟
+**Selected Contributor out of 35,000+ applicants!** 🌟  
+🔥 **Promoted to Co-Maintainer / Collaborator for core ecosystem repositories!** 🚀
 
-* **Role:** Contributor / Mentee  
-* **Track:** Open Source Track  
-* **Timeline:** 15 May to 14 August 2026  
-* **Objective:** Actively contributing to real-world open-source projects, optimizing C++ structures, and collaborating with global developers.
-
+* **Role:** Co-Maintainer / Collaborator & Core Developer
+* **Track:** Open Source Engineering Track
+* **Timeline:** 15 May to 14 August 2026
+  
+* **Core Responsibilities:** * Managing and reviewing incoming Pull Requests (PRs) from global contributors.
+  
+  * Architecting clean issue structures, templates, and documentation guidelines (e.g., `ARCHITECTURE.md`).
+  * Mentoring junior contributors and triaging critical backend/auth workflow bugs.
+    
+* **Objective:** Actively contributing to real-world open-source projects, optimizing C++ structures, and collaborating with global developers to build scalable infrastructure.
 
 
 ---
